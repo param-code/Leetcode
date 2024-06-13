@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/param-code/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/param-code/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/param-code/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3194-find-words-containing-character](https://github.com/param-code/Leetcode/tree/master/3194-find-words-containing-character) |
 # Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/param-code/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/param-code/Leetcode/tree/master/3194-find-words-containing-character) |
 # Queue
 |  |
 | ------- |
