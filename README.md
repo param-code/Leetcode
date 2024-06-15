@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/param-code/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/param-code/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/param-code/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/param-code/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/param-code/Leetcode/tree/master/1137-height-checker) |
@@ -50,3 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/param-code/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/param-code/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/param-code/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
