@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/param-code/Leetcode/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/param-code/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/param-code/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/param-code/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/param-code/Leetcode/tree/master/1217-relative-sort-array) |
