@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/param-code/Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/param-code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -55,3 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-code/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/param-code/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/param-code/Leetcode/tree/master/0633-sum-of-square-numbers) |
