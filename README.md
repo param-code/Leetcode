@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/param-code/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0812-rotate-string](https://github.com/param-code/Leetcode/tree/master/0812-rotate-string) |
 | [3194-find-words-containing-character](https://github.com/param-code/Leetcode/tree/master/3194-find-words-containing-character) |
 # Queue
 |  |
@@ -64,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/param-code/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/param-code/Leetcode/tree/master/0812-rotate-string) |
