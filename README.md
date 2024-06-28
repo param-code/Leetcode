@@ -75,3 +75,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/param-code/Leetcode/tree/master/0812-rotate-string) |
+| [3207-make-three-strings-equal](https://github.com/param-code/Leetcode/tree/master/3207-make-three-strings-equal) |
