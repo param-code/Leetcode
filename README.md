@@ -82,12 +82,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
