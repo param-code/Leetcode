@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 <!---LeetCode Topics End-->
