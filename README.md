@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [3221-find-the-peaks](https://github.com/param-code/Leetcode/tree/master/3221-find-the-peaks) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/param-code/Leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
