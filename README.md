@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [3188-find-champion-i](https://github.com/param-code/Leetcode/tree/master/3188-find-champion-i) |
 | [3221-find-the-peaks](https://github.com/param-code/Leetcode/tree/master/3221-find-the-peaks) |
+| [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3324-split-the-array](https://github.com/param-code/Leetcode/tree/master/3324-split-the-array) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/param-code/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/param-code/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Enumeration
 |  |
@@ -123,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3188-find-champion-i](https://github.com/param-code/Leetcode/tree/master/3188-find-champion-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
