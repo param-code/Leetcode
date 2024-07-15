@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/param-code/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3188-find-champion-i](https://github.com/param-code/Leetcode/tree/master/3188-find-champion-i) |
 | [3221-find-the-peaks](https://github.com/param-code/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
@@ -130,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/param-code/Leetcode/tree/master/3226-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/param-code/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
