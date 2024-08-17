@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2481-strictly-palindromic-number](https://github.com/param-code/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/param-code/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Math
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/param-code/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/param-code/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
