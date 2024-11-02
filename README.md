@@ -146,4 +146,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/param-code/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/param-code/Leetcode/tree/master/1170-shortest-common-supersequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/param-code/Leetcode/tree/master/1170-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
