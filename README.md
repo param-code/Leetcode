@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/param-code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/param-code/Leetcode/tree/master/0494-target-sum) |
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/param-code/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3188-find-champion-i](https://github.com/param-code/Leetcode/tree/master/3188-find-champion-i) |
@@ -157,5 +158,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/param-code/Leetcode/tree/master/0494-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/param-code/Leetcode/tree/master/1170-shortest-common-supersequence) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/param-code/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
