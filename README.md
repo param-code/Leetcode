@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/param-code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/param-code/Leetcode/tree/master/0494-target-sum) |
+| [0792-binary-search](https://github.com/param-code/Leetcode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/param-code/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/param-code/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3188-find-champion-i](https://github.com/param-code/Leetcode/tree/master/3188-find-champion-i) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-code/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/param-code/Leetcode/tree/master/0792-binary-search) |
 ## Simulation
 |  |
 | ------- |
